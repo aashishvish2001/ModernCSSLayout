@@ -1,0 +1,92 @@
+*
+{
+    margin: 0 auto;
+    padding: 0;
+}
+
+.Box
+{
+    height: 1200px;
+    width: 1000px;
+    background: linear-gradient(red,green,orange);
+    border: 2px solid black;
+    margin-top: 100px;
+    box-shadow: 0px 0px 0px 10px gray;
+}
+
+.Box
+{
+    background-image: url(https://img.freepik.com/free-vector/copy-space-bokeh-spring-lights-background_52683-55649.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.row1
+{
+    margin-top: 100px;
+    width: 800px;
+    height: auto;
+    border: 1px solid black;
+           display: flex;
+           padding: auto;
+}
+
+.row1 section
+{
+    width: 300px;
+    height: 300px;
+    flex: 1;
+    border: 1px solid gray;
+    padding: 5px;
+    margin: 5px;
+    box-sizing: border-box;
+    background-color: cornflowerblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        
+}
+
+button
+{
+    background-color: brown;
+}
+
+img 
+{
+    height: 100px;
+    width: 250px;
+    background-color: white;
+    
+}
+
+.row2
+{
+    margin-top: 100px;
+    width: 800px;
+    height: auto;
+    border: 1px solid black;
+           display: flex;
+           padding: auto;
+}
+
+.row2 section
+{
+    width: 300px;
+    height: 300px;
+    flex: 1;
+    border: 1px solid gray;
+    padding: 5px;
+    margin: 5px;
+    box-sizing: border-box;
+    background-color: cornflowerblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.row3
+{
+    margin-top: 150px;
+    width: 800px;
+    height: auto;
+    border: 1px gray;
+         display: flex;
+         padding: auto;
+         color: white;
+}
